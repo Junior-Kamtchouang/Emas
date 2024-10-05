@@ -15,4 +15,4 @@ Diese Website stellt die **EMAS Ingenieure GmbH** vor, ein Ingenieurbüro, das s
 
 Die Website informiert über die Kernkompetenzen von EMAS und bietet eine Möglichkeit, direkt Kontakt aufzunehmen.
 
-![image alt](https://github.com/Junior-Kamtchouang/Emas-ing/blob/eea9b8c71c852581170fe2baa18b921e07923093/Emas-Ingenieure-Website-Presentation-Image.png)
+![image alt](https://github.com/Junior-Kamtchouang/Emas-ing/blob/6f06627c5959851b33b2c77a51ad881b82c8fec4/Emas-Ing-Website-Presentation-Image.png)
